@@ -3,10 +3,17 @@
 	padding: 0;	
 }
 body{
-	font-family: 'Oswald', serif;
+	font-family: 'Yeseva One', cursive;
 	font-style: 15px;
+}
+h1,h2,h3,h4,h5{
+	color: #4444;
+	font-family: "crete round", sans-serif;
+	font-style: 45px;
+}
 
-
-
-
+.wrapper{
+	width: 940px;
+	margin: 0
+	padding: 0 10Px;
 }
